@@ -1,2 +1,1 @@
-if (curSum < 0)
-            //     curSum = 0;
+i+1
